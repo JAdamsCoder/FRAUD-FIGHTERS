@@ -21,6 +21,7 @@
 		039E84DA29899A2600B119CE /* Intro Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 039E84D829899A2500B119CE /* Intro Screen.png */; };
 		039E84DC2989A4D600B119CE /* FRAUD FIGHTERS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039E84DB2989A4D600B119CE /* FRAUD FIGHTERS.swift */; };
 		039E84DE2989B00D00B119CE /* Menu Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 039E84DD2989B00D00B119CE /* Menu Screen.png */; };
+		039E84E0298DA56E00B119CE /* StartScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039E84DF298DA56E00B119CE /* StartScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		039E84D829899A2500B119CE /* Intro Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Intro Screen.png"; path = "../../FRAUD FIGHTERS ASSETS/Intro Screen.png"; sourceTree = "<group>"; };
 		039E84DB2989A4D600B119CE /* FRAUD FIGHTERS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FRAUD FIGHTERS.swift"; sourceTree = "<group>"; };
 		039E84DD2989B00D00B119CE /* Menu Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Menu Screen.png"; path = "../../FRAUD FIGHTERS ASSETS/Menu Screen.png"; sourceTree = "<group>"; };
+		039E84DF298DA56E00B119CE /* StartScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				039E84D729899A2500B119CE /* Intro Screen Copy.png */,
 				039E84D829899A2500B119CE /* Intro Screen.png */,
 				039E84A82988662300B119CE /* ContentView.swift */,
+				039E84DF298DA56E00B119CE /* StartScreen.swift */,
 				039E84DB2989A4D600B119CE /* FRAUD FIGHTERS.swift */,
 				039E84DD2989B00D00B119CE /* Menu Screen.png */,
 				039E84D52988699A00B119CE /* FRAUD FIGHTERS ASSETS */,
@@ -284,6 +287,7 @@
 			files = (
 				039E84B32988662400B119CE /* FRAUD_FIGHTERS.xcdatamodeld in Sources */,
 				039E84DC2989A4D600B119CE /* FRAUD FIGHTERS.swift in Sources */,
+				039E84E0298DA56E00B119CE /* StartScreen.swift in Sources */,
 				039E84B02988662400B119CE /* Persistence.swift in Sources */,
 				039E84A92988662300B119CE /* ContentView.swift in Sources */,
 				039E84A72988662300B119CE /* FRAUD_FIGHTERSApp.swift in Sources */,

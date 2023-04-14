@@ -37,7 +37,18 @@ struct FRAUD_FIGHTERS: View {
                 NavigationLink {
                     //Will take user to next menu
                 //Text("Let's Start!")
-                    Image("Phone Quiz Screen Copy 3")
+                    //Image("Phone Quiz Screen Copy 3")
+                    //StartScreen()
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                 }
             
             label: {
